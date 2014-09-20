@@ -8,3 +8,5 @@ css/
 *~
 *.swp
 *.swo
+env
+node_modules
